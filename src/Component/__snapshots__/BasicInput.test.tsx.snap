@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Testing renders correctly 1`] = `
+<input
+  className="inputBox"
+  disabled={false}
+  id="name"
+  type="text"
+/>
+`;
