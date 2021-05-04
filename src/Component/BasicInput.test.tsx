@@ -78,6 +78,6 @@ describe('DOM Testing', () => {
 
 		checkbox.find('input').simulate('change');
 
-		expect(checkbox.text()).toEqual('labelOff');
+		expect(checkbox.text()).toEqual('labelOn');
 	});
 })
