@@ -10,6 +10,7 @@ class BasicInput extends React.Component<BasicInputProps, {}> {
 
 	constructor(props: BasicInputProps) {
 		super(props);
+		console.log("kllk")
 	}
 
 	public render(): JSX.Element {
